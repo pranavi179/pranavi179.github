@@ -1,14 +1,15 @@
-# PRODUCT PAGE
-OVERVIEW :- 
-PRODUCT PAGE FOR AN ECOMMERCE WEBSITE , IT HAVE DESCRIPTION, SPECIFICATIONS, COMMENTS,REVIEWS BY USER , AND CAN COMPARE WITH OTHER PRODUCTS TOO.
+# Product Page 
+Product page for an e-commerce weboste with description, specifications, comments, reviews and compate with other product.
 
- # TOOLS USED
- HTML, CSS , BOOTSTRAP,JAVASCRIPT , JQUERY 
+ # Technologies and tools used
+ * HTML and CSS 
+ * BOOTSTRAP
+ * JAVASCRIPT and JQUERY 
  
- # THE MAIN CODE IS IN URBOPRODUCT.HTML 
+ # Inspired form urboproduct.html
  
  To dos:-
- Go through the Product main image , to below of the image right click beside the square pink box ,so that you can view other images
+ Go through the Product main image , to below of the image right click beside the square pink box ,so that you can view other  images
  
  
  
