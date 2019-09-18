@@ -6,6 +6,9 @@ Product page for an e-commerce weboste with description, specifications, comment
  * BOOTSTRAP
  * JAVASCRIPT and JQUERY 
  
+ # go to link 
+ https://pranavi179.github.io/index.html
+ 
  # Inspired form urboproduct.html
  
  To dos:-
